@@ -1,0 +1,125 @@
+kcnj12 - wikipedia , free encyclopedia 
+kcnj12 
+from wikipedia , free encyclopedia 
+potassium inwardly-rectifi channel , subfamili J , member 12 
+identifi 
+symbol ( ) 
+kcnj12 ; irk2 ; kcnjn1 ; kir2.2 ; kir2.2v ; hirk ; hirk1 ; hkir2.2x ; kcnj12x 
+extern id 
+omim : 602323 mgi : 108495 homologen : 7793 
+gene ontolog 
+molecular function : 
+• inward rectifi potassium channel activ 
+• voltage-g ion channel activ 
+• ion channel inhibitor activ 
+• potassium channel regul activ 
+• potassium ion bind 
+cellular compon : 
+• membran fraction 
+• integr plasma membran 
+• membran 
+• integr membran 
+biolog process : 
+• ion transport 
+• potassium ion transport 
+• muscl contract 
+• regul heart contract 
+rna express pattern 
+more refer express data 
+ortholog 
+human 
+mous 
+entrez 
+3768 
+16515 
+ensembl 
+ensg00000184185 
+ensmusg00000042529 
+uniprot 
+q14500 
+q5su77 
+refseq 
+xm_939575 ( mrna ) 
+xp_944668 ( protein ) 
+nm_010603 ( mrna ) 
+np_034733 ( protein ) 
+locat 
+chr 17 : 21.22 - 21.26 Mb 
+chr 11 : 60.84 - 60.89 Mb 
+pubm search 
+[ 1 ] 
+[ 2 ] 
+potassium inwardly-rectifi channel , subfamili J , member 12 , also known kcnj12 kir2.2 , human gene . [ 1 ] 
+thi gene encod inwardli rectifi K+ channel may block dival cation . thi protein thought one multipl inwardli rectifi channel contribut cardiac inward rectifi current ( ik1 ) . the gene locat within smith-mageni syndrom region chromosom 17 . [ 1 ] 
+content 
+1 see also 
+2 refer 
+3 further read 
+4 extern link 
+[ edit ] see also 
+inward-rectifi potassium ion channel 
+[ edit ] refer 
+^ b entrez gene : kcnj12 potassium inwardly-rectifi channel , subfamili J , member 12 . 
+[ edit ] further read 
+kubo Y , adelman JP , clapham DE , et al . ( 2006 ) . `` intern union pharmacolog . liv . nomenclatur molecular relationship inwardli rectifi potassium channels. '' . pharmacol . rev . 57 ( 4 ) : 509–26 . doi:10.1124/pr.57.4.11 . pmid 16382105 . 
+mukherje A , varma SK , natarajan K ( 1972 ) . `` ankl joint instabl poliomyelitis. '' . indian journal pediatr 39 ( 289 ) : 37–8 . pmid 5024025 . 
+wibl BA , De biasi M , majumd K , et al . ( 1995 ) . `` clone function express inwardli rectifi K+ channel human atrium. '' . circ . re . 76 ( 3 ) : 343–50 . pmid 7859381 . 
+namba N , inagaki N , gonoi T , et al . ( 1996 ) . `` kir2.2v : possibl neg regul inwardli rectifi K+ channel kir2.2. '' . feb lett . 386 ( 2-3 ) : 211–4 . pmid 8647284 . 
+hugnot JP , pedeutour F , Le calvez C , et al . ( 1997 ) . `` the human inward rectifi K+ channel kir 2.2 ( kcnj12 ) gene : gene structur , assign chromosom 17p11.1 , identif simpl tandem repeat polymorphism. '' . genom 39 ( 1 ) : 113–6 . doi:10.1006/geno.1996.4450 . pmid 9027495 . 
+gallagh PG , forget BG ( 1998 ) . `` An altern promot direct express truncat , muscle-specif isoform human ankyrin 1 gene. '' . J. biol . chem . 273 ( 3 ) : 1339–48 . pmid 9430667 . 
+namba N , mori R , tanaka H , et al . ( 1998 ) . `` the inwardli rectifi potassium channel subunit kir2.2v ( kcnjn1 ) map 17p11.2 -- > p11.1. '' . cytogenet . cell genet . 79 ( 1-2 ) : 85–7 . pmid 9533018 . 
+leonoudaki D , mailliard W , wingerd K , et al . ( 2001 ) . `` inward rectifi potassium channel kir2.2 associ synapse-associ protein sap97. '' . J . cell . sci . 114 ( Pt 5 ) : 987–98 . pmid 11181181 . 
+preisig-mül R , schlichthörl G , goerg T , et al . ( 2002 ) . `` heteromer kir2.x potassium channel contribut phenotyp andersen 's syndrome. '' . proc . natl . acad . sci . u.s.a. 99 ( 11 ) : 7774–9 . doi:10.1073/pnas.102609499 . pmid 12032359 . 
+chen L , kawano T , bajic S , et al . ( 2002 ) . `` A glutam residu C terminu regul activ inward rectifi K+ channel : implic andersen 's syndrome. '' . proc . natl . acad . sci . u.s.a. 99 ( 12 ) : 8430–5 . doi:10.1073/pnas.122682899 . pmid 12034888 . 
+kaibara M , ishihara K , doi Y , et al . ( 2002 ) . `` identif human kir2.2 ( kcnj12 ) gene encod function inward rectifi potassium channel mammalian cell xenopu oocytes. '' . feb lett . 531 ( 2 ) : 250–4 . pmid 12417321 . 
+strausberg RL , feingold EA , grous LH , et al . ( 2003 ) . `` gener initi analysi 15,000 full-length human mous cdna sequences. '' . proc . natl . acad . sci . u.s.a. 99 ( 26 ) : 16899–903 . doi:10.1073/pnas.242603899 . pmid 12477932 . 
+karkani T , Li S , picker JG , sim SM ( 2003 ) . `` plastic kir channel human smooth muscl cell intern thorac artery. '' . Am . J. physiol . heart circ . physiol . 284 ( 6 ) : h2325–34 . doi:10.1152/ajpheart.00559.2002 . pmid 12598232 . 
+stonehous AH , grubb BD , pringl JH , et al . ( 2003 ) . `` nuclear immunostain rat neuron cell use two anti-kir2.2 ion channel polyclon antibodies. '' . J. mol . neurosci . 20 ( 2 ) : 189–94 . pmid 12794312 . 
+ota T , suzuki Y , nishikawa T , et al . ( 2004 ) . `` complet sequenc character 21,243 full-length human cdnas. '' . nat . genet . 36 ( 1 ) : 40–5 . doi:10.1038/ng1285 . pmid 14702039 . 
+leonoudaki D , conti LR , radek CM , et al . ( 2004 ) . `` A multiprotein traffick complex compos sap97 , cask , veli , mint1 associ inward rectifi kir2 potassium channels. '' . J. biol . chem . 279 ( 18 ) : 19051–63 . doi:10.1074/jbc.m400284200 . pmid 14960569 . 
+leonoudaki D , conti LR , anderson S , et al . ( 2004 ) . `` protein traffick anchor complex reveal proteom analysi inward rectifi potassium channel ( kir2.x ) -associ proteins. '' . J. biol . chem . 279 ( 21 ) : 22331–46 . doi:10.1074/jbc.m400285200 . pmid 15024025 . 
+gerhard DS , wagner L , feingold EA , et al . ( 2004 ) . `` the statu , qualiti , expans nih full-length cdna project : mammalian gene collect ( mgc ) . '' . genom re . 14 ( 10b ) : 2121–7 . doi:10.1101/gr.2596504 . pmid 15489334 . 
+fang Y , schram G , romanenko VG , et al . ( 2005 ) . `` function express kir2.x human aortic endotheli cell : domin role kir2.2. '' . Am . J . physiol. , cell physiol . 289 ( 5 ) : c1134–44 . doi:10.1152/ajpcell.00077.2005 . pmid 15958527 . 
+kieseck C , zitron E , scherer D , et al . ( 2006 ) . `` regul cardiac inwardli rectifi potassium current ik1 kir2.x channel endothelin-1. '' . J. mol . med . 84 ( 1 ) : 46–56 . doi:10.1007/s00109-005-0707-8 . pmid 16258766 . 
+[ edit ] extern link 
+mesh kir2.2+channel 
+thi membran protein-rel articl stub . you help wikipedia expand . 
+thi articl incorpor text unit state nation librari medicin , public domain . 
+v • • e 
+membran transport protein : ion channel 
+ca2+ : calcium channel 
+voltage-depend calcium channel ( l-type/cavα ( 1.1 , 1.2 , 1.3 , 1.4 ) , n-type , p-type/cavα ( 2.1 ) , q-type , r-type , t-type , α2δ-subunit ( 1 , 2 ) , β-subunit ( β1 , β2 , β3 , β4 ) , γ-subunit ( γ1 , γ2 , γ3 , γ4 ) 
+inositol triphosph receptor • ryanodin receptor • cation channel sperm • two-por channel 
+na+ : sodium channel 
+navα ( 1.1 , 1.2 , 1.3 , 1.4 , 1.5 , 1.6 , 1.7 , 1.9 , 7A ) • navβ ( 1 , 2 , 3 , 4 ) • epitheli sodium channel 
+K+ : potassium channel 
+voltage-g ( kvα ( 1.1 , 1.2 , 1.3 , 1.4 , 1.5 , 2.1 , 3.1 , 3.4 , 4.1 , 4.2 , 4.3 , 6.1 , 7.1 , 7.2 , 7.3 , 7.4 , 7.5 , 9.3 , 10.1 , 11.1/herg ) • kvβ ( 1 , 2 ) , shaker gene , kcne1 ) 
+calcium-activ ( BK channel : α1 , β1 , β2 , β3 , β4 ; SK channel : sk1 , sk2 , sk3 , sk4 ) 
+inward-rectifi kir ( 1.1 , 2.1 , 2.2 , 2.3 , 2.4 , girk , 3.1 , 3.2 , 3.3 , 3.4 , 4.1 , 4.2 , 5.1 , 6.1 , 6.2 , 7.1 ) 
+tandem pore domain k2p ( 1 , 2 , 3 , 4 , 6 , 9 , 15 , 17 ) 
+cl- : chlorid channel 
+cystic fibrosi transmembran conduct regul 
+porin 
+aquaporin ( 1 , 2 , 3 , 4 , 5 , 7 , 8 , 9 ) • voltage-depend anion channel ( 1 ) 
+cation : trp 
+trpa ( 1 ) • trpc ( 1 , 2 , 3 , 4 , 4ap , 5 , 6 , 7 ) • trpm ( 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 ) • trpml ( mucolipin-1 ) • trpp ( 1 , 2 ) • trpv ( 1 , 2 , 3 , 4 , 5 , 6 ) 
+other/gener 
+voltage-g ion channel • ligand-g ion channel • cyclic nucleotide-g ion channel ( α1 , α2 , α3 , β1 , β3 , H1 , H2 , H3 , H4 ) • stretch-activ ion channel 
+categori : gene chromosom 17 | human protein | membran protein stub | ion channelshidden categori : protein page need pictur 
+view 
+articlediscussioncurr revis 
+navig 
+main page 
+content 
+featur content 
+current event 
+interact 
+about wikipedia 
+commun portal 
+recent chang 
+contact wikipedia 
+donat wikipedia 
+help 
+search 
+
+thi page last modifi 22:44 , 10 june 2008 wikipedia user doi bot . base work wikipedia user ( ) boghog2 proteinboxbot . all text avail term gnu free document licens . ( see copyright detail . ) wikipedia® regist trademark wikimedia foundat , inc. , u.s. regist 501 ( c ) ( 3 ) tax-deduct nonprofit chariti . about wikipedia disclaim 
