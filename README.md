@@ -1,2 +1,2 @@
 # Information-Retrieval-System-for-Queries
-Info Retrieval System based on Boolean and Vector Space Model 
+Info Retrieval System to perform a toy-scale performance evaluation of Boolean and Vector-space models.
