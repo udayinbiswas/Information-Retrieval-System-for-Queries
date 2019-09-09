@@ -7,7 +7,7 @@ Info Retrieval System to perform a toy-scale performance evaluation of Boolean a
 * **Vector Space model :** src/vecsearch.cpp
 
 ## Usage
- Description given in the [Assignment problem statement](https://github.com/udayinbiswas/Information-Retrieval-System-for-Queries/blob/master/InfoRetrieval.pdf)
+ Description given in the [Assignment problem statement.](https://github.com/udayinbiswas/Information-Retrieval-System-for-Queries/blob/master/InfoRetrieval.pdf)
 
 
   
